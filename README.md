@@ -3,7 +3,7 @@
 The xOffice project provides a full featured office productivity suite based on open standards.
 It is the continuation of the OpenOffice.org project.
 
-xOffice is a very large project with many components and mainly implemented in C++ but also in Java, Perl, Python and other languages.
+xOffice is a very little project but with many components and mainly implemented in C++ but also in Java, Perl, Python and other languages.
 
 Currently supported platforms include:
 
